@@ -27,4 +27,4 @@ Both cases achieved a **recall(sensitivity) of 100% for pneumonia**, proving the
 On the other hand, **precisions** for train and test were **100%** and **69%** resepctively, meaning it may not as effective in a sense of assisting a doctor. 
 
 ## 2nd_model
-I have decided to implement a method of **data augmentation** to improve the first model becasue X_Ray images from the datasets were pre_examined by experts, which means the quality of images is relatively hard to match. As a result, in test, the model achieved an **accuracy of 87.3 %** with a **sensitivity of **87%**. Therefore, it was safe to say that the model was improved in generalized performance and become more reliable to assist the doctors.
+I have decided to implement a method of **data augmentation** to improve the first model becasue X_Ray images from the datasets were pre_examined by experts, which means the quality of images is relatively hard to match. As a result, in test, the model achieved an **accuracy of 87.3 %** with a **sensitivity of 87%**. Therefore, it was safe to say that the model was improved in generalized performance and become more reliable to assist the doctors.
