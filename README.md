@@ -1,7 +1,7 @@
 # X_Ray_Image_Classification w/ Convolutional Neural Network
 
 # Introduction
-It has been reported that patients with COVID-19 may have pneumonia as a complication, meaning a number of cases of pneumonia may increase constantly. Therefore, I built a CNN model which can aid a doctor to dignose the pneunomia from X_ray image of patient's lungs; moreover, to identify if the cause of infection is either bacterial or viral. Hence, model will facilitate earlier treatment, resulting in improved clinical outcomes.  
+It has been reported that patients with COVID-19 may have pneumonia as a complication, indicating a number of cases of pneumonia may increase constantly in the future. Therefore, I built a CNN model which can aid a doctor to dignose the pneunomia from X_ray image of patient's lungs; moreover, to identify if the cause of infection is either bacterial or viral. Hence, model will facilitate earlier treatment, resulting in improved clinical outcomes.  
 
 # Background
 Pneumonia is an infectious respiratory disease that causes inflammation of air sacs in one or both lungs. Pneumonia is usually caused by bacteria and virus and some common symptoms amongs the patients are cough with phlegm (pus), fever, and difficulty breathing. 
