@@ -1,5 +1,7 @@
 # X_Ray_Image_Classification w/ Convolutional Neural Network
 
+### Author : Gukhwan Hyun
+
 # Introduction
 It has been reported that patients with COVID-19 may have pneumonia as a complication, indicating a number of cases of pneumonia may increase constantly in the follwing future. Therefore, I built a CNN model which can aid a doctor to dignose the pneunomia from X_ray image of patient's lungs. Hence, model will facilitate earlier treatment, resulting in improved clinical outcomes.  
 
