@@ -12,6 +12,7 @@ Datasets used in this study are from the pediatric patients of one to five years
 To read more about, visit -> https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia 
 
 # Project at a glance
+* All codes were written and run on **Google Colab**
 1. Used **OpenCV** to access and preprocess the X_Ray images 
 2. Used **ImageDataGenerator** to perform a data augmentation to improve model's general performance by reducing overfitting.
 3. Used **Keras** to construct a CNN (Convolutional Neural Network) models for a binary classification (Normal vs. Pneumonia) 
